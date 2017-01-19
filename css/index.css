@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+h1{
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+h2{
+	font-size: 18px;
+}
+#example{
+	margin-top: 50px;
+	background: #fff;
+}
+#example li {
+	background: #fff;
+	border-bottom: 1px solid #e7e7e7;
+}
+
+#example li:last-child {
+	border-bottom: none;
+}
+.col-center-block {  
+    float: none;  
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;
+    padding-top: 1px;
+    background: #e7e7e7;
+	margin-bottom: 20px;
+	padding-bottom: 15px;
+}  
